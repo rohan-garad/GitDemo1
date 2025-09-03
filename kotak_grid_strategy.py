@@ -1,4 +1,4 @@
-"""
+""" Rohan
 kotak_grid_socket.py
 
 Kotak Neo Grid Strategy (similar to Zerodha version).
